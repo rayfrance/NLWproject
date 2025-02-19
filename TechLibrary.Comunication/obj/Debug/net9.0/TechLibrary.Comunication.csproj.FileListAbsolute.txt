@@ -1,0 +1,11 @@
+C:\Users\rtglf\source\repos\TechLibrary\TechLibrary.Comunication\bin\Debug\net9.0\TechLibrary.Comunication.deps.json
+C:\Users\rtglf\source\repos\TechLibrary\TechLibrary.Comunication\bin\Debug\net9.0\TechLibrary.Comunication.dll
+C:\Users\rtglf\source\repos\TechLibrary\TechLibrary.Comunication\bin\Debug\net9.0\TechLibrary.Comunication.pdb
+C:\Users\rtglf\source\repos\TechLibrary\TechLibrary.Comunication\obj\Debug\net9.0\TechLibrary.Comunication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rtglf\source\repos\TechLibrary\TechLibrary.Comunication\obj\Debug\net9.0\TechLibrary.Comunication.AssemblyInfoInputs.cache
+C:\Users\rtglf\source\repos\TechLibrary\TechLibrary.Comunication\obj\Debug\net9.0\TechLibrary.Comunication.AssemblyInfo.cs
+C:\Users\rtglf\source\repos\TechLibrary\TechLibrary.Comunication\obj\Debug\net9.0\TechLibrary.Comunication.csproj.CoreCompileInputs.cache
+C:\Users\rtglf\source\repos\TechLibrary\TechLibrary.Comunication\obj\Debug\net9.0\TechLibrary.Comunication.dll
+C:\Users\rtglf\source\repos\TechLibrary\TechLibrary.Comunication\obj\Debug\net9.0\refint\TechLibrary.Comunication.dll
+C:\Users\rtglf\source\repos\TechLibrary\TechLibrary.Comunication\obj\Debug\net9.0\TechLibrary.Comunication.pdb
+C:\Users\rtglf\source\repos\TechLibrary\TechLibrary.Comunication\obj\Debug\net9.0\ref\TechLibrary.Comunication.dll
