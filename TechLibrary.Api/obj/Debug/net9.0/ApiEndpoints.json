@@ -22,6 +22,15 @@
           "text/json"
         ],
         "StatusCode": 201
+      },
+      {
+        "Type": "TechLibrary.Comunication.Responses.ResponseErrorMessagesJson",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 400
       }
     ]
   },
